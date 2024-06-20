@@ -72,7 +72,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/upwork-svgrepo-com (1).svg
         altText: Logo five
         caption: Logo five
     spacing: 3

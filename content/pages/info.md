@@ -64,7 +64,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/nokia-refreshed-logo-2_1.webp
         altText: Logo one
         caption: Logo one
       - type: ImageBlock

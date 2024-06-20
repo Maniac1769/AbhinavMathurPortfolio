@@ -68,9 +68,6 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
         url: /images/upwork-svgrepo-com (1).svg
         altText: Logo five
         caption: Logo five

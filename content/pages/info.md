@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## Hey I’m a developer. I’ve been born and raised in Lucknow, and that’s
+      also where I’m based. I’m currently a free agent  working for
+      International clients at platforms like Upwork , Fiverr, ex-intern at
+      Nokia . When I’m not coding, writing or creating, I play the guitar and
+      skateboard.
     media:
       type: ImageBlock
       url: /images/me.jpg
@@ -63,25 +64,18 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/nokia-refreshed-logo-2_1.webp
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/upwork-svgrepo-com (1).svg
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/fiverr-1.svg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -124,7 +118,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Maniac1769'
         styles:
           self:
             textAlign: left
@@ -140,7 +134,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/m-abhinav
         styles:
           self:
             textAlign: left
@@ -164,7 +158,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/_.bui._/'
         styles:
           self:
             textAlign: left
@@ -207,7 +201,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Machine Learning
       - type: Label
         label: React
       - type: Label

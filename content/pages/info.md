@@ -205,7 +205,7 @@ sections:
       - type: Label
         label: Data Science
       - type: Label
-        label: Microsoft Office
+        label: Artificial Intelligence
       - type: Label
         label: Next.js
       - type: Label

@@ -203,7 +203,7 @@ sections:
       - type: Label
         label: Machine Learning
       - type: Label
-        label: React
+        label: Data Science
       - type: Label
         label: Microsoft Office
       - type: Label

@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/OIG2.2.jpeg
   altText: Project image
 ---
 ### Web App Description: AI-Powered Disease Detection and First Aid Suggestions

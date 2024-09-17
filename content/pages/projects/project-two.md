@@ -33,8 +33,4 @@ Key Features:
 
 This app empowers users with early detection, helping them seek timely medical advice, while offering first aid suggestions to manage conditions effectively.
 
-
-
-
-
-https\://vitalimageanalysis.streamlit.app/
+<https://vitalimageanalysis.streamlit.app/>

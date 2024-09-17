@@ -256,21 +256,9 @@ sections:
 
           *   freelancer at Upwork
 
-          **2018-2021**
+          **2023**
 
-          *   fullstack at this startup
-
-          **2015**
-
-          *   senior front-end at this place
-
-          **2013**
-
-          *   intern developer at a big company
-
-          **2011**
-
-          *   flipping burgers
+          *   Intern developer at NOKIA
 
         styles:
           self:
